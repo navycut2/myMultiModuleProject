@@ -5,3 +5,5 @@ https://shekhargulati.com/2017/11/08/a-minimalist-guide-to-building-spring-boot-
 https://spring.io/blog/2015/01/12/spring-and-angular-js-a-secure-single-page-application
 
 https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java
+
+https://github.com/szerhusenBC/jwt-spring-security-demo
